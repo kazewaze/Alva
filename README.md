@@ -1,13 +1,11 @@
 ![Alva Logo](alva.png)
 
-# Alva
-
 ### A Zero Dependency Deep Learning Toolkit for composing datasets.
 
 ```py
 alv = Alva()
 
-# Code from Andrew Trask's Book "Grokking Deep Learning"
+# Code from Andrew Trask's Book "Grokking Deep Learning" below:
 
 weights = [0.1, 0.2, 0]
 
