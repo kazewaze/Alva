@@ -1,4 +1,4 @@
-![Alva Logo](alva.png)
+![Alva Logo](/assets/alva.png)
 
 ### A Zero Dependency Deep Learning Toolkit for composing datasets.
 

@@ -50,5 +50,3 @@ class Alva:
             results += ' \n Calc %(index)s: %(calc)s \n' % {"index": str(i+1), "calc": str(calcs[i])}
 
         return results
-
-#-----------------------------------------------------
