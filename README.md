@@ -1,4 +1,8 @@
-![Alva Logo](/assets/alva.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kazewaze/assets-holder/main/alva.png" alt="Alva Logo"/>
+</p>
+
+-------
 
 ### A Zero Dependency Deep Learning Toolkit for composing datasets.
 
