@@ -4,7 +4,7 @@
 
 -------
 
-### A Zero Dependency Deep Learning Toolkit for composing datasets.
+<h2 align="center">A Zero Dependency Deep Learning Toolkit for composing datasets.</h2>
 
 ```py
 alv = Alva()
