@@ -1,12 +1,4 @@
-<p align="center">
-  <img width="225px" height="125px" src="https://raw.githubusercontent.com/kazewaze/assets-holder/main/alva.png" alt="Alva Logo"/>
-</p>
-
--------
-
-<h2 align="center">A Zero Dependency Deep Learning Toolkit for composing datasets.</h2>
-
-```py
+from alva import Alva
 alv = Alva()
 
 # Code from Andrew Trask's Book "Grokking Deep Learning" below:
@@ -39,18 +31,3 @@ shape = arr.shape()
 print(results)
 print(matrix)
 print(shape)
-```
-
-# Output:
-```
- Calc 1: 0.9800000000000001 
- 
- Calc 2: 1.11 
- 
- Calc 3: 1.1500000000000001 
- 
- Calc 4: 1.08 
-
-[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-(3, 3)
-```
