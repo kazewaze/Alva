@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kazewaze/assets-holder/main/alva.png" alt="Alva Logo"/>
+  <img width="225px" height="125px" src="https://raw.githubusercontent.com/kazewaze/assets-holder/main/alva.png" alt="Alva Logo"/>
 </p>
 
 -------
@@ -36,7 +36,7 @@ matrix = alv.zeros((3, 3)) # (3, 3) matrix of 0's
 
 shape = arr.shape()
 
-print(shape)
 print(results)
 print(matrix)
+print(shape)
 ```
