@@ -13,7 +13,7 @@ alv = Alva()
 
 weights = [0.1, 0.2, 0]
 
-# games: 1st  2nd  3rd  4th
+# Games: 1st  2nd  3rd  4th
 toes =  [8.5, 9.5, 9.9, 9.0] # toes
 wlrec = [0.65, 0.8, 0.8, 0.9] # win / loss record
 nfans = [1.2, 1.3, 0.5, 1.0] # number of fans
